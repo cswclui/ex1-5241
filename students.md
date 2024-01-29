@@ -124,3 +124,13 @@ I am Phoebe
 
 === Do not modify the content above===
 
+## This is a test
+Testing 123
+
+[My Github account](http://www.github.com/put-your-github-username-here/)
+
+[Include the link of you Github page here using the syntax shown above]
+
+=== Do not modify the content above===
+
+=== Copy the above template and paste below and edit it ===
